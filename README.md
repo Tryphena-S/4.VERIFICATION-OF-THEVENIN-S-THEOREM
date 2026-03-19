@@ -17,8 +17,12 @@ To verify Thevenin’s theorem practically and theoretically for the given DC ci
 5.	Bread board	---	1
 
 6.	Multimeter	---	1
-
-**THEORY:**
+**CIRCUIT DIAGRAM:**
+**TABULAR COLUMN:**
+**CALCULATIONS:**
+ 
+ 
+ **THEORY:**
 
 **THEVENIN’S THEOREM:**
 
@@ -49,6 +53,14 @@ To measure VTh or Voc
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+**TABULAR COLUMN:**
+<img width="1079" height="943" alt="image" src="https://github.com/user-attachments/assets/4d85c0ea-704d-4b36-a4aa-744afc3de748" />
+**CALCULATION:**
+<img width="1080" height="522" alt="image" src="https://github.com/user-attachments/assets/70257f8d-5617-4978-b10e-4b768d285c45" />
+<img width="1079" height="1368" alt="image" src="https://github.com/user-attachments/assets/5dd1288e-3f8c-4a67-9b9e-d46828e784c1" />
+
+
+
 
 
 **PROCEDURE:**
@@ -78,3 +90,9 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+**MARKS SPLITUP:**
+<img width="1080" height="687" alt="image" src="https://github.com/user-attachments/assets/f2e8cae2-bb1b-4061-95d1-2804d001e833" />
+
+**RESULT:**
+     Thus,Thevnin's theorm is verified practically and theoritically.
